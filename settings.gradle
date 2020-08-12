@@ -1,1 +1,3 @@
+include ':mylibrary'
+rootProject.name='Tic-Tac-Toe'
 include ':app'

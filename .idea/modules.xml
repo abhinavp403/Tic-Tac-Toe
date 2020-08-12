@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/Tic-Tac-Toe.iml" group="Tic-Tac-Toe" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Tic-Tac-Toe/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/mylibrary/mylibrary.iml" group="Tic-Tac-Toe/mylibrary" />
+    </modules>
+  </component>
+</project>

@@ -1,4 +1,4 @@
-package com.example.abhinav.tic_tac_toe;
+package com.dev.abhinav.tic_tac_toe;
 
 import org.junit.Test;
 
